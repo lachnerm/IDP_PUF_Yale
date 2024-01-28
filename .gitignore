@@ -1,0 +1,14 @@
+.idea
+/venv/
+*/checkpoints/
+*/results_*
+*/runs
+/visualization
+/data/**/*.h5
+/data/**/*.mat
+
+
+*.h5
+*.jpg
+*.json
+.Rproj.user
